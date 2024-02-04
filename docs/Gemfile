@@ -33,7 +33,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 
 # Install the theme from: https://github.com/mmistakes/minimal-mistakes
-# gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
