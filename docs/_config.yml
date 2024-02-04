@@ -1,0 +1,168 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+
+# Build settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+
+# Site settings
+locale                   : "en-US"
+title: Topic Tango
+title_separator          : "-"
+subtitle                 : "Random thoughts on random topics"
+name: &name "Arunesh Pandey"
+description: &description "Exploring the whimsical side of technology, travel, and more."
+baseurl: "/topictango" # the subpath of your site, e.g. /blog
+url: "https://aruneshpa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "aruneshpa/topictango"
+
+
+# Enable breadcrumb on site
+breadcrumbs: true
+# Enable site wide search for words.  Indexing entire pages can impact perf:
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#lunr-default
+search: true
+
+# Set default values
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      # Show the approximate read time of a post.  Change words_per_minute to get a different calculation of read time.
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      # Show date when a blog was added
+      show_date: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      # Show the approximate read time of a post.  Change words_per_minute to get a different calculation of read time.
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      # Show date when a blog was added
+      show_date: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      # Show the approximate read time of a post.  Change words_per_minute to get a different calculation of read time.
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      # Show date when a blog was added
+      show_date: true
+
+# Define a collections.  This is what allows topics to be grouped, so they can be shown under one umbrella (e.g., Emacs, Notes).
+collections:
+  emacs:
+    output: true
+    sort_by: date # We probably want a more deterministic order that we can control. Do that by uncommenting the block below.
+    permalink: '/:collection/:path/'
+    # order:
+    #  - xyz.md
+  notes:
+    output: true
+    sort_by: date # We probably want a more deterministic order that we can control. Do that by uncommenting the block below.
+    permalink: '/:collection/:path/'
+    # order:
+    #  - xyz.md
+
+# Site Author
+author:
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  #avatar           : "/assets/images/michael-rose.jpg"
+  bio              : "No one."
+  location         : "Seattle, WA"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/aruneshpa"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/aruneshpa"
+      
+      
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/aruneshpa"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/aruneshpa"
+
+
+# Reading Files
+include:
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+keep_files:
+  - .git
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Outputting
+permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+

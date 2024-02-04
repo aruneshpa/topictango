@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Trips"
+    url: /trips/
+  - title: "Emacs"
+    url: /emacs/
+  - title: "Notes"
+    url: /notes/
+  - title: "About"
+    url: /about/
