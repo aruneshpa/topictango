@@ -302,7 +302,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  faraday (~> 2.7, >= 2.7.11)
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-algolia
@@ -310,6 +309,7 @@ DEPENDENCIES
   jekyll-gist
   jekyll-include-cache
   jekyll-paginate
+  jekyll-remote-theme
   jekyll-sitemap
   jemoji
   tzinfo (>= 1, < 3)
