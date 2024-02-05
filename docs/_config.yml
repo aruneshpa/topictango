@@ -41,10 +41,15 @@ title_separator          : "-"
 subtitle                 : "Random thoughts on random topics -- test"
 name: &name "Arunesh Pandey"
 ##  > # this means to ignore newlines until "baseurl:"
-description: &description "Exploring the whimsical side of technology, travel, and more."
+description: &description "Exploring the whimsical side of technology, travel, and more. -- test again"
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://aruneshpa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "aruneshpa/topictango"
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
 
 
 # Enable breadcrumb on site
