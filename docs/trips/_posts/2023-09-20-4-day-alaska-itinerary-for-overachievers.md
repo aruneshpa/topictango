@@ -11,10 +11,10 @@ An Alaska itinerary for people who want to extract maximum out of their trip.
 1.  [Best Time to Visit Alaska](#orgaea4c21)
 2.  [Quick Glance](#org3ed9fee)
 3.  [What to Pack](#org3ca92ea)
-4.  [Day 1](#org9f29bf0)
-5.  [Day 2](#org09664a7)
-6.  [Day 3](#orgda81285)
-7.  [Day 4](#orgff061a7)
+4.  [Day 1: Anchorage to Denali](#org9f29bf0)
+5.  [Day 2: Denali National Park](#org09664a7)
+6.  [Day 3: Portage, Byron Glaciers](#orgda81285)
+7.  [Day 4: Kenai Fjord National Park, Seward](#orgff061a7)
 8.  [Tips](#orgdbd36de)
 
 
@@ -96,30 +96,30 @@ We crashed into our hotel shortly after midnight.
 
 # Day 3: Portage, Byron Glaciers
 
-We started from our hotel early morning around 8:00 AM.  After a quick pit stop at [The Black Bear](https://www.theblackbeardenali.com) cafe in Denali Park for some coffee and a muffin, we started our drive to [Portage Glacier](https://www.fs.usda.gov/detail/chugach/home/?cid=stelprdb5251130).  It is a long drive (~5 hours), so feel free to take plenty of breaks along the way.  You're in Alaska, so even if you decide to stop at a random spot, chances are, the views will be beautiful.
+We started from our stay early morning around 8:00 AM.  After a quick pit stop at [The Black Bear](https://www.theblackbeardenali.com) cafe in Denali Park for some coffee and a muffin, we started our drive to [Portage Glacier](https://www.fs.usda.gov/detail/chugach/home/?cid=stelprdb5251130).  It is a long drive (~5 hours), so feel free to take plenty of breaks along the way at various vista points.  You're in Alaska, so even if you decide to stop at a random spot, chances are, the views are spectacular.
 
-We took a 5 minute pit stop at [Reflection Lake](https://www.alltrails.com/trail/us/alaska/reflections-lake-trail) in Anchorage.  And after our failed attempt to grab lunch at [Moose's Tooth](https://moosestooth.net) Pub and Pizzeria (2 hour wait time), we headed over to the local lQdoba for a quick bite.  A burrito filled with what I am sure were the hottest jalapenos later, we resumed our drive to Portage.  At this point, I know you are tired of hearing this, but once again, *the drive was spectacular*.  Certain stretches of the drive have US101 vibes with mountains on one side, and ocean on the other.
+We took a 5 minute pit stop at [Reflection Lake](https://www.alltrails.com/trail/us/alaska/reflections-lake-trail) in Anchorage.  And after our failed attempt to grab lunch at [Moose's Tooth](https://moosestooth.net) Pub and Pizzeria (2 hour wait time), we headed over to the local Qdoba for a quick bite.  After a burrito filled with what I am sure were the hottest jalapenos, we resumed our drive to Portage.  At this point, I know you are tired of hearing this, but once again, *the drive was spectacular*.  Certain stretches of the drive have US101 vibe with mountains on one side, and ocean on the other.
 
-We reached Portage around 4:00 PM.  Unfortunately, the visitor center was closed for the season, so we couldn't talk to any park rangers to get the lay of the land.  If you have a few hours, you have two options to explore Portage.  You can either take a [Portage glacier cruise](https://www.alaska.org/detail/portage-glacier-cruise), or, you can hike one of the trails.  We chose to hike the [Byron glacier trail](https://www.alaska.org/detail/byron-glacier-trail).  The trail follows along the glacier stream before ending at the glacier.  It got really apocalyptic (wind, mist, rain) at the end, but it was surreal to be able to touch a glacier.  We were soaked, but it was well worth it.
+We reached Portage around 4:00 PM.  Unfortunately, the visitor center was closed for the season, so we couldn't talk to any park rangers to get the lay of the land.  If you have a few hours in Portage, you have two options.  You can either take a [Portage glacier cruise](https://www.alaska.org/detail/portage-glacier-cruise), or, you can hike one of the trails.  We chose to hike the [Byron glacier trail](https://www.alaska.org/detail/byron-glacier-trail).  The trail follows along the glacial stream before ending at Byron glacier.  It got really apocalyptic (windy, misty, rainy) at the end, but it was surreal to be able to touch a glacier.  We were soaked, but it was well worth it.
 
-After the hike, we continued our way to Seward.  An hour and a half, and several pit stops to soak in amazing views later, we reached Breeze Inn, where we were staying for the night.
+After the hike, we continued our way to Seward.  An hour and a half, and several pit stops to soak in amazing views later, we reached our stay for the night.
 
-We decided to grab dinner at [Apollo restaurant](https://www.apollorestaurantak.com).  After cleaning up their yum salmon cakes, we decided to take a stroll on the harbor.  Seward has an peaceful small town vibe.  Boats ranging from tiny dinghies to yachts flood the harbor here.  We even saw a full blown cruise, with a basketball court on the top deck.  After a short bout with jealousy, we decided to call it a night and get some shuteye.
+We decided to grab dinner at [Apollo restaurant](https://www.apollorestaurantak.com).  After cleaning up their yum salmon cakes, we decided to take a stroll on the harbor.  Seward has an peaceful small town vibe.  Boats ranging from tiny dinghies to yachts flood the harbor here.  We even saw a full blown cruise, with a basketball court on the top deck.  After a short bout of jealousy, we decided to call it a night and get some shuteye.
 
 
 <a id="orgff061a7"></a>
 
 # Day 4: Kenai Fjord National Park, Seward
 
-Last day of the trip is always a bummer.  You are already thinking about the vacation being over.  However, we decided to lean into the whole "yesterday is history, tomorrow is mystery, but today is a gift" philosophy.
+Last day of the trip is always a bummer.  You are already thinking about the vacation being over.  However, we leaned into the whole "yesterday is history, tomorrow is mystery, but today is a gift" vibe.
 
-Day four was dedicated to exploring the Kenai Fjord National Park.  Early morning, we decided to explore the [Exit Glacier area](https://www.nps.gov/kefj/planyourvisit/exit-glacier-area.htm).  It is the only part of the park reachable by road.  I swear I will stop saying this at some point, but the drive to the glacier was amazing.  We stopped to take a picture of the national park entrance sign before stopping at a couple other view points.  We did the Exit Glacier Overlook trail, which is a easy to moderate 2 mile hike with great views of the glacier.l
+Day four was dedicated to exploring the Kenai Fjord National Park.  Early morning, we decided to explore the [Exit Glacier area](https://www.nps.gov/kefj/planyourvisit/exit-glacier-area.htm).  It is the only part of the park reachable by road.  I swear I will stop saying this at some point, but the drive to the glacier was amazing.  We stopped to take a picture of the national park entrance sign before stopping at a couple other view points.  We did the Exit Glacier Overlook trail, which is a easy to moderate 2 mile hike with great views of the glacier.
 
-After getting back to the harbor, we grabbed a coffee from the Natures Nectar (tiny coffee shop located in Breeze Inn)  and hopped on our boat for the [Kenai Fjord National Park tour](https://www.alaskacollection.com/day-tours/kenai-fjords-tours/kenai-fjords-national-park-tour/) offered by the folks at Kenai Fjord Tours.
+After getting back to the harbor, we grabbed a coffee from the Natures Nectar (tiny coffee shop located in the Breeze Inn hotel) and hopped on our cruise for the [Kenai Fjord National Park tour](https://www.alaskacollection.com/day-tours/kenai-fjords-tours/kenai-fjords-national-park-tour/) offered by the folks at Kenai Fjord Tours.
 
-Exquisite.  That's how I would describe my next 6 hours.  We saw several marine animals including Stellar sea lions, sea otters and harbor seals during our tour.  Our captain was gracious enough to sail along a pod of killer whales.  He even knew the name of the male.  We spotted several glaciers along the way (don't worry, your captain will point those to you) before finally stopping at the crown jewel, Aialik Glacier.  It is one of the largest glaciers in the bay.  We also got to see some calving.  On our way back, the captain took us through Spire Cove with amazing views of absurdly tall rock spires.  We also spotted a colony of Puffins.
+Exquisite.  That's how I would describe our next 6 hours.  We saw several marine animals including Stellar sea lions, sea otters and harbor seals during our tour.  Our captain was gracious enough to sail along a pod of killer whales.  He even knew a few Orcas by name (talk about being on a first name basis with a whale!).  We spotted several glaciers along the way (don't worry, your captain will point those to you) before finally stopping at the crown jewel - Aialik Glacier.  It is one of the largest glaciers in the bay.  We also got to see some nice calving.  Pro tip: having a good camera with wide angle lens ensures you don't miss calving.  Plus, you are not playing the game of guessing the next spot where glacier is going to break.  On our way back, the captain took us through Spire Cove with amazing views of absurdly tall rock spires.  We also spotted a colony of Puffins.
 
-Finally, we started our drive from Seward back to Anchorage to catch our late night flight to Seattle.  We tried our luck one more time in Anchorage and were able to get a table at the Moose's Tooth Pizzeria (yaay!) after a 45-ish minute wait.  The restaurant has an amazing vibe rich with it's history.  We spotted posters from well over 15 years ago.  After devouring their pizzas, chugging on their root beers and cream sodas, we headed back to the airport for our flight back.
+Finally, we started our drive from Seward back to Anchorage to catch our late night flight to Seattle.  We tried our luck one more time in Anchorage and were able to get a table at the Moose's Tooth Pizzeria (yaay!) after a 45-ish minute wait.  The restaurant has an amazing vibe, rich with it's history.  We spotted posters from well over 15 years ago.  After devouring their pizzas, chugging on their root beers and cream sodas, we headed back to the airport for our flight back.
 
 
 <a id="orgdbd36de"></a>
@@ -129,4 +129,5 @@ Finally, we started our drive from Seward back to Anchorage to catch our late ni
 -   Ask for bear spray from the visitor center.  On the flip side, if you bought a bear spray, or borrowed one from someone, please donate it to the visitor center or nearby donation centers.
 -   Where to eat in Denali National Park?
     -   Don't eat at the visitor center.  Take a 10 minute drive to the Denali Park city.  You can get everything from fast foods (Subway), to historic restaurants (Prospectus).
+-   Try to take the bus tour in Denali national park in early morning, or late evening.  You have a higher chance of spotting wildlife.
 
