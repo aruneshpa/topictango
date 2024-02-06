@@ -23,9 +23,9 @@ An Alaska itinerary for people who want to extract maximum out of their trip.
 
 # Best Time to Visit Alaska
 
-Alaska is beautiful year-round.  Being so far north on a world map guarantees one thing for Alaska. Lots of snow.  If you are one of the cool people who can rock winters, you do you.
+Alaska is beautiful year-round.  Being that north on a world map guarantees one thing for Alaska -- lots of snow.  If you are one of the cool bunch who can put your skis on and rock winters, you do you.
 
-Since mere mortals like us start to go in hibernation as soon as fall is over, May through September is the best season to visit Alaska.  Depending on what kind of a vacation you want, you can pick any month from these.  If you want to explore the vast, untouched wilderness, or, if you are on a budget, then shoulder months of May and September are for you. If you want don't mind large crowds, the peak months guarantee best weather.
+But since mere mortals like us start to go in hibernation as soon as fall is over, May through September is the best season to visit Alaska.  Depending on what kind of a vacation you want, you can pick any month from these.  If you want to explore the vast, untouched wilderness, or, if you are on a budget, then shoulder months of May and September are for you.  If you don't mind large crowds, the peak months guarantee the best weather.
 
 
 <a id="org3ed9fee"></a>
@@ -33,68 +33,68 @@ Since mere mortals like us start to go in hibernation as soon as fall is over, M
 # Quick Glance
 
 -   Day 1
-    -   Anchorage Airport to Denali National Park drive
+    -   Anchorage to Denali National Park drive
     -   Explore Denali National Park
 -   Day 2
     -   Explore Denali National Park
 -   Day 3
     -   Denali National Park to Portage glacier drive
-    -   Explore Portage glacier, Byron glacier
+    -   Explore Portage and Byron glaciers
     -   Drive to Seward
 -   Day 4
     -   Explore Kenai Fjord National Park via cruise
     -   Explore Exit glacier
-    -   Drive to Anchorage Airport
+    -   Drive to Anchorage
 
 
 <a id="org3ca92ea"></a>
 
 # What to Pack
 
-Weather is pretty unpredictable in Alaska even during the summer months.  Usually we book our trips months in advance, but be prepared for a completely different weather than from the forecast.  Layers are the name of the game here. It can get pretty windy when on a cruise, or soaking wet when hiking a glacier.  Pack a pair of hiking boots as well.  Running shoes are not going to cut it in the chilly weather, or the hikes.
+Weather is pretty unpredictable in Alaska even during the summer months.  Usually we plan our vacations months in advance, so there are chances that you might get a completely different weather from the forecast at the time of your booking.  Fear not, layers are the name of the game here. It can get pretty windy when on a cruise, or soaking wet when hiking a glacier.  Don't forget to pack a pair of hiking boots as well.  Running shoes are not going to cut it in the chilly weather, on the glaciers, or the switchbacks of hikes.
 
-Another important item to pack: Binoculars.  Unless you are one of those people with a foot long 600mm zoom lens, please pack a pair of binoculars.  It will help you spot animals on faraway landscapes.  Animals like Dall sheep are really high up the mountain and without these binoculars you will never know if a while dot on a mountain top is snow or a sheep.
+Pro tip: pack a good pair of Binoculars - unless of course, if you are one of those people with a foot long 600mm zoom lens.  It will help you spot animals on faraway landscapes.  It also means you won't be at the mercy of your fellow travelers to lend you their pair (don't ask me how I know).  Animals like Dall sheep like to hang out really high up the mountain and without binoculars, you will not be able to tell snow from sheep on a mountain peak.
 
 Check out the tips section for additional hacks on what (or what not) to pack.
 
 
 <a id="org9f29bf0"></a>
 
-# Day 1
+# Day 1: Anchorage to Denali
 
-We took a flight from Seattle to Anchorage, arriving in Anchorage at 10:30 PM.  We wanted to start early morning the next day, do we decided on reaching there the night before.  Of course, you can take an early morning flight to Anchorage as well.  Early morning, we started our drive towards Denali.  The drive is almost 4 hours long, but it is very picturesque.  So, be sure to stop at view points along the way to soak in the views.
+We took a flight from Seattle, arriving in Anchorage at 10:30 PM.  We wanted an early morning start the next day, so we decided on reaching there the night before.  Of course, you can take an early morning flight to Anchorage as well.  Next morning, we started our journey towards Denali which is a 4 hours long, ultra picturesque drive.  Be sure to stop at vista points along the way to soak in all the views.
 
-Our first two official stops are [Denali View South](https://dnr.alaska.gov/parks/aspunits/matsu/denaliviewso.htm) and [North](https://dnr.alaska.gov/parks/aspunits/matsu/denaliviewnocamp.htm) point.  These are considered one of the best views of the majestic, but mysterious, Denali peak.  The road from Anchorage to Danali also goes through [Broad pass](https://www.alaska.org/detail/broad-pass).  Blueberry fields and peaks on either side of the road follow you for miles.  If you are lucky, you may spot a Moose or Caribou.  You will drive back on the same road on Day 3.  We got to experience it in two different weather conditions.  It sounds counter intuitive, but the views are better when it is a little cloudy and drizzling.  Peaks shrouded by cloud always look more majestic to me.
+Our first two official stops were Denali View [South](https://dnr.alaska.gov/parks/aspunits/matsu/denaliviewso.htm) and [North](https://dnr.alaska.gov/parks/aspunits/matsu/denaliviewnocamp.htm) point.  These are considered one of the best views of the majestic, albeit mysterious, Denali peak.  The road from Anchorage to Danali also goes through [Broad pass](https://www.alaska.org/detail/broad-pass).  Blueberry fields and peaks on either side of the road follow you for miles.  If you are lucky, you may spot a Moose or a Caribou.  You will drive back on the same road on Day 3, so don't feel bad if you don't spot any wild life.  We were lucky that we got to experience it in two _very_ different weather conditions (did someone say unpredictable weather?).  It sounds counter intuitive, but the views are better when it is a little cloudy and drizzling.  Peaks shrouded by cloud always look more majestic to me.
 
-Upon reaching Denali National park, take a free park shuttle to [Savage River area](https://www.nps.gov/dena/planyourvisit/savage-river-area.htm) and go on the [Savage River Loop trail](https://www.nps.gov/dena/planyourvisit/savagecanyon.htm).  This is a 1.7 mile loop with easy difficulty with hardly any elevation gain.  The trail goes nearly one mile before crossing the river with beautiful bridge.  Pro tip: start the hike counter clockwise and continue for a quarter mile off the maintained trail after crossing the bridge for even better views.  It was a recommendation from an awesome couple that we met on the hike.
+Upon reaching Denali National park, take a free park shuttle to [Savage River area](https://www.nps.gov/dena/planyourvisit/savage-river-area.htm) and go on the [Savage River Loop trail](https://www.nps.gov/dena/planyourvisit/savagecanyon.htm).  This is a 1.7 mile loop with easy difficulty with hardly any elevation gain.  The trail goes nearly one mile before crossing the river with a beautiful wooden bridge.  Pro tip: start the hike counter clockwise and continue for a quarter mile off the maintained trail after crossing the bridge for even better views.  It was a recommendation from an awesome UW couple (Go Huskies!) that we met on the hike.
 
 The park also does [Sled Dog Demonstrations](https://www.nps.gov/dena/planyourvisit/sled-dog-demonstrations.htm) 3 times a day.  Even though it was pouring during the demonstration, we had a lot of fun.  Plus, we got to pet a whole bunch of huskies.  We're not complaining.
 
-In the evening, we drove to the [49th State Brewing](https://www.49thstatebrewing.com/denali/) in Healy for dinner and drinks.  If you are lucky (we were not), you might get to try their "Smok" beer.  This is their world beer cup winning lager &#x2013; and they *love* to tell you that everywhere.  We tried to find it in a bunch of places, and it felt as if the entire city had run out of this beer, so YMMV.
+In the evening, we drove to the [49th State Brewing](https://www.49thstatebrewing.com/denali/) in Healy for dinner and drinks.  If you are lucky (we were not!), you might get to try their "Smok" beer.  This is their world beer cup winning lager &#x2013; and they *love* to tell you that everywhere (posters in the bathroom anyone?).  We searched for that beer in a bunch of stores, and it felt as if the entire city had run out of it, but YMMV.
 
 
 <a id="org09664a7"></a>
 
-# Day 2
+# Day 2: Denali National Park
 
-Before starting your day, drop by the [Denali visitor center](https://www.nps.gov/dena/planyourvisit/the-denali-visitor-center.htm) and grab a souvenir.  You can also pick a coffee and a croissant from the Starbucks to kick start your day.  Full disclosure, when on vacation, I prefer to try local cafes.  They usually carry local beans and helping local businesses is always a good thing.
+Before starting your day, drop by the [Denali visitor center](https://www.nps.gov/dena/planyourvisit/the-denali-visitor-center.htm) and grab a souvenir.  You can also pick a coffee and a croissant from the Starbucks to kick start your day.  Full disclosure, when on vacation, I prefer local cafes (you should too).  They often carry local beans and helping local businesses is always a good thing.
 
-Day two is dedicated to exploring Denali National Park.  In the morning, we did the much recommended [Horseshoe lake trail](https://www.nps.gov/dena/planyourvisit/horseshoe-lake-trail.htm).  It is a 2 mile moderate loop with minimal elevation gain.  The trail goes through a beautiful forest before looping around the Horseshoe lake.  There's also a section that goes along the Nenana river.  Being close to river gives you a high chance of spotting a bear, so be alert.  In fact, we spotted a few fresh bear paw prints on our way.
+Day two is dedicated to exploring Denali National Park.  In the morning, we did the much recommended [Horseshoe lake trail](https://www.nps.gov/dena/planyourvisit/horseshoe-lake-trail.htm).  It is a 2 mile moderate loop with minimal elevation gain.  The trail goes through a beautiful forest before looping around the Horseshoe lake.  There's also a section that goes along the Nenana river.  Being close to river gives you a high chance of spotting a bear, so be alert.  In fact, we spotted a few fresh bear paw prints on our way.  And no, we were not scared at all (we were!).
 
-After the trail, we headed over to the [Alaska Railroad's Denali Depot](https://www.nps.gov/places/denali-depot-alaska-railroad.htm) for some cool rail track shots.  If you are lucky, you will get to see a train passing buy.  We swung by the station to read up on Alaska Railroad trivia and let's just say that we have a new item on our bucket list for the next Alaska trip.
+After the trail, we headed over to the [Alaska Railroad's Denali Depot](https://www.nps.gov/places/denali-depot-alaska-railroad.htm) for some cool shots of rail tracks.  If you are lucky, you will get to see a train passing buy.  We swung by the station to read up on Alaska Railroad trivia and let's just say that we have a new item on our bucket list for the next Alaska trip.
 
-Final stretch of the day was taking the park transit shuttle from the bus depot.  Park road is closed to all vehicles and transit buses beyond mile 43.  There are several [bus tour options](https://www.nps.gov/dena/planyourvisit/visiting-denali.htm) to explore the park, but we went for the hop-on, hop-off [transit buses](https://www.nps.gov/dena/planyourvisit/shuttles.htm).  From the bus depot, the round trip is around 5 hours, so plan accordingly.  Note that there are no marked trails past mile 15 ([Savage River Area](https://www.nps.gov/dena/planyourvisit/savage-river-area.htm)).  This helps maintain wilderness in the park (love it!!).  The hop-on, hop-off buses allow you to get down anywhere you like by simply asking the driver.  When you are ready to board the bus again, a gentle hand signal from the road, and the bus will pick you up.  This tour is a must do in Denali national park.  In this 43 mile drive, we saw several Caribou, a few Moose, Dall Sheep, several bears (including cubs).  Of course, the views throughout the ride were breathtaking.
+Final stretch of the day was taking the park transit shuttle from the bus depot.  Park road is closed to all vehicles and transit buses beyond mile 43.  There are several [bus tour options](https://www.nps.gov/dena/planyourvisit/visiting-denali.htm) to explore the park, but we went for the hop-on, hop-off [transit buses](https://www.nps.gov/dena/planyourvisit/shuttles.htm).  From the bus depot, the round trip is around 5 hours, so plan accordingly.  Note that there are no marked trails past mile 15 ([Savage River Area](https://www.nps.gov/dena/planyourvisit/savage-river-area.htm)).  This helps maintain wilderness in the park (love it!!).  The hop-on, hop-off buses allow you to get down anywhere you like by simply asking the driver.  When you are ready to board the bus again, wave your hands to the next bus, and it will pick you up.  This tour is a must do in Denali national park.  In this 43 mile drive, we saw several caribou, a few moose, Dall sheep, several bears (including cubs).  Of course, the views throughout the ride were breathtaking.
 
 After the trip, we had dinner at [Porpectus Pizzeria](https://www.prospectorspizza.com) in Denali Park.  It is a historic pizzeria with life size skins of grizzly bears, wolves, moose and several other animals.  We tried their Pesto Chicken Pizza and it was simply delicious.  We loved the experience so much that we kept coming here throughout our trip.
 
-When we were done with dinner (at 10:30 ish), our server told us there was chance of seeing Northern lights around midnight.  We ended up driving north for close to an hour trying to spot Northern lights.  We saw *some lights*, we just weren't sure if they were northern lights.  Let's pretend they were.  We won't tell if you won't.
+When we were done with dinner (at 10:30 ish), our server told us there was chance of seeing Northern lights around midnight.  We ended up driving north for close to an hour trying to spot Northern lights.  We saw *some lights*, we just weren't sure if they were northern lights.  Let's pretend they were.  We won't tell anybody if you won't.
 
 We crashed into our hotel shortly after midnight.
 
 
 <a id="orgda81285"></a>
 
-# Day 3
+# Day 3: Portage, Byron Glaciers
 
 We started from our hotel early morning around 8:00 AM.  After a quick pit stop at [The Black Bear](https://www.theblackbeardenali.com) cafe in Denali Park for some coffee and a muffin, we started our drive to [Portage Glacier](https://www.fs.usda.gov/detail/chugach/home/?cid=stelprdb5251130).  It is a long drive (~5 hours), so feel free to take plenty of breaks along the way.  You're in Alaska, so even if you decide to stop at a random spot, chances are, the views will be beautiful.
 
@@ -109,7 +109,7 @@ We decided to grab dinner at [Apollo restaurant](https://www.apollorestaurantak.
 
 <a id="orgff061a7"></a>
 
-# Day 4
+# Day 4: Kenai Fjord National Park, Seward
 
 Last day of the trip is always a bummer.  You are already thinking about the vacation being over.  However, we decided to lean into the whole "yesterday is history, tomorrow is mystery, but today is a gift" philosophy.
 
