@@ -29,7 +29,7 @@ There are also environments where large deviations are not consequential.  If yo
 
 <a id="org6cc9a06"></a>
 
-# Precautionary Principal
+# Precautionary Principle
 
 You have a glass of water in front of you.  If I go on and say "the water in this glass is not poisonous at all."  Would it change your mind on whether you'd want to drink this water?  Another example would be, if you are about to board a plane from Mexico to JFK and the flight attendant goes "folks, we have uncertainty about the skills of the pilot.  We think he's good, but there's uncertainty."  Would you still take the flight?
 
